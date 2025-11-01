@@ -85,10 +85,3 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
 		</div>
 	);
 }
-
-// Store notes, knowledge
-// Planner, find bugs
-
-// Code Mode
-// Debug Mode
-// Architect Mode
